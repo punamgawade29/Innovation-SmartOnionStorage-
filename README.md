@@ -1,4 +1,4 @@
-![image](https://github.com/punamgawade29/Innovation-SmartOnionStorage-/assets/141442107/54963d81-436e-4c81-9d50-a4feba88d787)![image](https://github.com/punamgawade29/Innovation-SmartOnionStorage-/assets/141442107/1df60681-1b5c-4b83-8ca9-a2755461a26a)![image](https://github.com/punamgawade29/Innovation-SmartOnionStorage-/assets/141442107/684bf713-d9c7-425b-b5bc-c03293392c39)![image](https://github.com/punamgawade29/Innovation-SmartOnionStorage-/assets/141442107/9bfc263a-0911-4d1a-8c44-770198667646)# Innovation-SmartOnionStorage-
+# Innovation-SmartOnionStorage-
 # Problem Statement - Improvement of storage design for reducing the wastage of onions & enhance the shelf life of stored onions
 ![image](https://github.com/punamgawade29/Innovation-SmartOnionStorage-/assets/141442107/5e13adfd-f6a6-4231-8486-1627d110140c)
 
